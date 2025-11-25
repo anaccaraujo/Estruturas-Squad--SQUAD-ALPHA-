@@ -72,8 +72,6 @@ O desafio é dividido em cinco áreas, cada uma requerendo a implementação de 
     node [NOME_DO_ARQUIVO].js
     ```
 
-    *(Certifique-se de que o Node.js está instalado em sua máquina.)*
-
 -----
 
 ## 👩‍💻 Status da Implementação
