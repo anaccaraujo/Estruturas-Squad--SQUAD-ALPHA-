@@ -57,7 +57,7 @@ O desafio é dividido em cinco áreas, cada uma requerendo a implementação de 
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone [SEU_LINK_DO_REPOSITORIO]
+    git clone [https://github.com/anaccaraujo/Estruturas-Squad--SQUAD-ALPHA-/]
     ```
 
 2.  **Navegue até o Diretório:**
@@ -78,9 +78,9 @@ O desafio é dividido em cinco áreas, cada uma requerendo a implementação de 
 
 | Estrutura | Desafio | Status |
 | :--- | :--- | :--- |
-| Lista Duplamente Encadeada | Histórico de Transações | ⏳ Em Andamento / |
+| Lista Duplamente Encadeada | Histórico de Transações | ✅ Concluído |
 | Fila (Queue) | Atendimento ao Cliente | ⏳ Em Andamento /  |
-| Pilha (Stack) | Validação de Expressões | ⏳ Em Andamento /  |
+| Pilha (Stack) | Validação de Expressões | ✅ Concluído |
 | Array | Cotações do Dia | ⏳ Em Andamento /  |
 | Análise | Performance | ⏳ Em Andamento / |
 
