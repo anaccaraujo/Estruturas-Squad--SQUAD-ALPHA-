@@ -79,9 +79,9 @@ O desafio é dividido em cinco áreas, cada uma requerendo a implementação de 
 | Estrutura | Desafio | Status |
 | :--- | :--- | :--- |
 | Lista Duplamente Encadeada | Histórico de Transações | ✅ Concluído |
-| Fila (Queue) | Atendimento ao Cliente | ⏳ Em Andamento /  |
+| Fila (Queue) | Atendimento ao Cliente | ✅ Concluído |
 | Pilha (Stack) | Validação de Expressões | ✅ Concluído |
-| Array | Cotações do Dia | ⏳ Em Andamento /  |
+| Array | Cotações do Dia | ✅ Concluído |
 | Análise | Performance | ⏳ Em Andamento / |
 
 -----
